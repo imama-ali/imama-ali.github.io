@@ -22,7 +22,7 @@ Projects:
 
 
 
-[Resume](https://github.com/imamanr/publicResume)
+[Resume](https://github.com/imama-ali/publicResume.git)
 
 
 
