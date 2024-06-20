@@ -1,4 +1,4 @@
-# imamanr.github.io
+# imama-ali.github.io
 
 Links to online profiles:
 
@@ -13,12 +13,12 @@ Links to online profiles:
 [X](https://twitter.com/imamanoor)
 
 
-[linkedIn](https://www.linkedin.com/in/imamanoor/)
+[linkedIn](https://www.linkedin.com/in/imama-ali/)
 
 
 Projects:
 
-[Github](https://github.com/imamanr)
+[Github](https://github.com/imama-ali)
 
 
 
